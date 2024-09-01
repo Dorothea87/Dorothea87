@@ -1,16 +1,14 @@
 ## Hi there 👋
+## I am Dorothea 👩🏻
+- 😄 Pronouns: she/her
 
-<!--
-**Dorothea87/Dorothea87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Full-stack Webdevelopment at Le Wagon.
+- 🔭 I’m currently working on improving my skills.
+- 🤔 I’m looking for a job as  Product Manager.
+- 💬 Ask me about my dog and I will not stop talking!
+- ⚡ Fun fact: I once ran into the 14th Dalai Lama at Toronto Airport.
 
-Here are some ideas to get you started:
+   📫 How to reach me:
+    👔 [linkedin][linkedin] **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [linkedin]: https://linkedin.com/in/dorothea-toeller/
