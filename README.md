@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I am Dorothea 👩🏻 Pronouns: she/her
+## I am Dorothea 👩🏻 she/her
 
 - 🌱 I’m currently learning Full-stack Webdevelopment at Le Wagon.
 - 🔭 I’m currently working on improving my skills in Ruby, HTML, JS, CSS, ... (it is a long list).
