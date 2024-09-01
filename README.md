@@ -9,7 +9,7 @@
 
    📫 How to reach me:
     👔 [linkedin][linkedin] **|**
-   🔎 How to look at some finished front-end projects I have coded in the past
+   🔎 How to look at some finished front-end projects I have coded in the past:
      🎨 [shecodes][shecodes] **|**
 
   [linkedin]: https://linkedin.com/in/dorothea-toeller/
