@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Full-stack Webdevelopment at Le Wagon.
 - 🔭 I’m currently working on improving my skills in Ruby, HTML, JS, CSS, ... (it is a long list).
-- 🤔 I’m looking for a job as  Product Manager.
+- 🤔 I’m looking for a job as  Web Developer.
 - 💬 Ask me about my dog and I will not stop talking!
 - ⚡ Fun fact: I once ran into the 14th Dalai Lama at Toronto Airport.
 
