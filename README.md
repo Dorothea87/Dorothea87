@@ -1,9 +1,8 @@
 ## Hi there 👋
 ## I am Dorothea 👩🏻 she/her
 
-- 🌱 I’m currently learning Full-stack Webdevelopment at Le Wagon.
-- 🔭 I’m currently working on improving my skills in Ruby, HTML, JS, CSS, ... (it is a long list).
-- 🤔 I’m looking for a job as  Web Developer.
+- 🌱 I’m currently learning Scala in the Mercator Academy.
+- 🔭 I’m currently working on improving my skills in functional programming.
 - 💬 Ask me about my dog and I will not stop talking!
 - ⚡ Fun fact: I once ran into the 14th Dalai Lama at Toronto Airport.
 
