@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d4a5a5,c9b8d4,b8a9c9&height=150&section=header&text=Hi,%20I'm%20Dorothea%20👋&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=she/her%20%7C%20Software%20Developer%20%7C%20London&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e8b4b8,c9b0d4&height=140&section=header&text=Hi,%20I'm%20Dorothea%20👋&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=she/her%20·%20Software%20Developer%20·%20London&descAlignY=62&descSize=15&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -58,5 +58,5 @@ I once ran into the 14th Dalai Lama at Toronto Airport.
 [![SheCodes](https://img.shields.io/badge/SheCodes-FF6B6B?style=flat&logo=code&logoColor=white)](https://www.shecodes.io/graduates/99627-dorothea-toeller)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb347,ff6b6b,ff8c94&height=100&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e8b4b8,c9b0d4&height=80&section=footer&animation=fadeIn" />
 </p>
